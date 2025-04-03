@@ -9,7 +9,7 @@
 
 ### 🔹 Языки программирования  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,fortran,,rust" height="50">
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,fortran,rust" height="50">
 </p>
 
 ### 🔹 Инструменты
