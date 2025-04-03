@@ -9,22 +9,12 @@
 
 ### 🔹 Языки программирования  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,go,ts,js,python,rust" height="50">
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,fortran,,rust" height="50">
 </p>
 
-### 🔹 Фронтенд  
+### 🔹 Инструменты
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,sass" height="50">
-</p>
-
-### 🔹 Бэкенд и базы данных  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma" height="50">
-</p>
-
-### 🔹 Инструменты и DevOps  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,webpack,bash" height="50">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,mongodb,bash,mysql,neovim,notion,vscode,visualstudio," height="50">
 </p>
 
 ---
