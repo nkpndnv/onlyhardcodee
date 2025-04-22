@@ -13,5 +13,5 @@
 
 ### 🔹 instrumente
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,discordjs,electron,mongodb,bash,mysql,express,vscode,webstorm,figma,nodejs,obsidian,react,tailwind,vue," height="50">
+  <img src="https://skillicons.dev/icons?i=git,docker,electron,mongodb,bash,mysql,vscode,webstorm,nodejs,obsidian,react,tailwind,vue," height="50">
 </p>
