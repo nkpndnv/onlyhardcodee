@@ -1,26 +1,17 @@
-# 👋 Привет, я Никита!  
+# 👋 salut, eu sunt nkpndnv!
 
-🚀 **Простой разработчик | Пишу в основном на C++, Rust и Go**  
-
----
-
-## 🛠️ Мой стек технологий:
-
-
-### 🔹 Языки программирования  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,fortran,rust" height="50">
-</p>
-
-### 🔹 Инструменты
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,mongodb,bash,mysql,neovim,notion,vscode,visualstudio," height="50">
-</p>
+🚀 **fullstack developer | scriu în typescript și go**
 
 ---
 
-## 📊 GitHub Статистика
+## 🛠️ stiva mea de tehnologii:
+
+### 🔹 limbi de programare
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikita&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita&layout=compact&theme=radical" height="150">
+  <img src="https://skillicons.dev/icons?i=ts,js,go" height="50">
+</p>
+
+### 🔹 instrumente
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,discordjs,electron,mongodb,bash,mysql,express,vscode,webstorm,figma,nodejs,obsidian,react,tailwind,vue," height="50">
 </p>
